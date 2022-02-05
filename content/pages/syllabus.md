@@ -48,8 +48,45 @@ Grading
 
 Your overall course grade will depend on the following components:
 
-| ACTIVITIES | TOTAL POINTS |
-| --- | --- |
-| 3 Term Exams (100 points each) | 300 |
-| Final Exam (200 points) | 200 |
-| 6 Problem Sets (20 points each) | 120
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+TOTAL POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Term Exams (100 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+300
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (200 points)
+{{< tdclose >}}
+{{< tdopen >}}
+200
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 Problem Sets (20 points each)
+{{< tdclose >}}
+{{< tdopen >}}
+120
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
