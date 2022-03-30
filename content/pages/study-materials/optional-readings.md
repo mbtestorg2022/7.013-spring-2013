@@ -15,7 +15,7 @@ Liu, Q. P., G. Sulzenbacher, et al. "[Bacterial Glycosidases for The Production 
 
 "[Press Release: The 1989 Nobel Prize in Chemistry](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1989/press.html)." Nobelprize.org. May 1, 2013.
 
-Watson, and Crick paper. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Molecular Structure of Nucleic Acids." (PDF)](http://www.nature.com/nature/dna50/watsoncrick.pdf) _Nature_ 171 (1953): 737–8.
+Watson, and Crick paper. "[Molecular Structure of Nucleic Acids." (PDF)](http://www.nature.com/nature/dna50/watsoncrick.pdf) _Nature_ 171 (1953): 737–8.
 
 ### Videos
 
@@ -30,18 +30,18 @@ Nova beta, "[How Cells Divide](http://www.pbs.org/wgbh/nova/body/how-cells-divid
 
 Miko, I. "[Thomas Hunt Morgan and Sex Linkage](http://www.nature.com/scitable/topicpage/thomas-hunt-morgan-and-sex-linkage-452)." _Scitable by Nature Education_ 1, no. 1 (2008).
 
-Sturtevant, A. H. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Linear Arrangement of Six Sex-Linked Factors in Drosophila, as Shown by Their Mode of Association." (PDF)](http://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf) _Journal of Experimental Zoology_ 14 (1913): 43–59.
+Sturtevant, A. H. "[The Linear Arrangement of Six Sex-Linked Factors in Drosophila, as Shown by Their Mode of Association." (PDF)](http://www.esp.org/foundations/genetics/classical/holdings/s/ahs-13.pdf) _Journal of Experimental Zoology_ 14 (1913): 43–59.
 
 "[Possible Role for Huntington's Gene Discovered](http://web.mit.edu/newsoffice/2013/possible-role-for-huntingtons-gene-discovered-0116.html)." _MIT News Office_, January 16, 2013.
 
 {{< anchor "MOL" >}}{{< /anchor >}}Molecular Biology
 ----------------------------------------------------
 
-Griffith, M. B. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Significance of Pneumococcal Types." (PDF - 5.1MB)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2167760/pdf/jhyg00267-0003.pdf) _Journal of Hygiene_ 25, no. 2 (1928): 113–59.
+Griffith, M. B. "[The Significance of Pneumococcal Types." (PDF - 5.1MB)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2167760/pdf/jhyg00267-0003.pdf) _Journal of Hygiene_ 25, no. 2 (1928): 113–59.
 
 Oswald, T. A., C. M. MacLeod, et al. "[Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2135445/)." _Journal of Experimental Medicine_ 79, no. 2 (1944): 137–58.
 
-Hershey, A. D., and M. Chase. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage." (PDF - 1.0MB)](http://jgp.rupress.org/content/36/1/39.full.pdf+html) _The Journal of General Physiology_ 36, no. 1 (1952): 39–56.
+Hershey, A. D., and M. Chase. "[Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage." (PDF - 1.0MB)](http://jgp.rupress.org/content/36/1/39.full.pdf+html) _The Journal of General Physiology_ 36, no. 1 (1952): 39–56.
 
 Meselson, M., and F. W. Stahl. "[The Replication of DNA in Escherichia coli](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC528642/)." _Proceedings of the National Academy of Sciences_ 44, no. 7 (1958): 671–82.
 
