@@ -4,7 +4,7 @@ title: Video Lectures
 uid: b53793ad-184c-d15f-6a97-d167646ede76
 ---
 
-These selected lecture videos represent the topics that are unique to 7.013: Developmental Biology, Neurobiology, Stem Cells, and Cancer. These lecture videos were filmed during Spring 2011. For additional lecture videos on Introductory Biology, please see [_7.01SC Fundamentals of Biology_](/courses/7-01sc-fundamentals-of-biology-fall-2011/), [_7.012 Introductory Biology_](/courses/7-012-introduction-to-biology-fall-2004/), and [_7.014 Introductory Biology_](/courses/7-014-introductory-biology-spring-2005/).
+These selected lecture videos represent the topics that are unique to 7.013: Developmental Biology, Neurobiology, Stem Cells, and Cancer. These lecture videos were filmed during Spring 2011. For additional lecture videos on Introductory Biology, please see [_7.01SC Fundamentals of Biology_](/courses/7-01sc-fundamentals-of-biology-fall-2011), [_7.012 Introductory Biology_](/courses/7-012-introduction-to-biology-fall-2004), and [_7.014 Introductory Biology_](/courses/7-014-introductory-biology-spring-2005).
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -4,6 +4,7 @@ description: This file contains information regarding solution key 7.013 recitat
   14.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-013-introductory-biology-spring-2013/315909b4f558ce373071759153a0951e_MIT7_013S12_RecitatSol_14.pdf
 file_type: application/pdf
+parent_uid: 48d0ccdf-e4b4-c9ed-48e6-c3149ea3b5f2
 resourcetype: Document
 title: Solution Key 7.013 Recitation 14
 uid: 315909b4-f558-ce37-3071-759153a0951e
